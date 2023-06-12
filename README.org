@@ -1,0 +1,10 @@
+* common-lisp-jupyter
+
+A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/yitzchak/common-lisp-jupyter.git   |
+| commit  | cae7b0e  |
+| systems | common-lisp-jupyter |
+|---------+-------------------------------------------|
+
