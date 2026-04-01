@@ -7,3 +7,4 @@ A Common Lisp kernel for Jupyter along with a library for building Jupyter kerne
 | commit  | 2df5529                                                 |
 | systems | common-lisp-jupyter jupyter-lab-extension               |
 |---------+---------------------------------------------------------|
+ 
